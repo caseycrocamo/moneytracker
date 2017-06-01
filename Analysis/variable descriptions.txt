@@ -1,0 +1,40 @@
+Month (int):
+	month of the year (ex. january = 1, february = 2)
+
+Day (int):
+	day of the month
+
+Year (int):
+	last two digits of the year (ex. 20xx)
+
+Category (string):
+	snack
+	bread
+	fruit
+	pre-prepared
+	drink
+	dairy
+	protein
+	non-food
+	vegetable
+	seasoning
+	cereal
+
+Price (float):
+	price of the item in USD
+
+Casey (bool):
+	true - sharing the item
+	false - not sharing the item
+
+Nate (bool):
+	true - sharing the item
+	false - not sharing the item
+
+Yarden (bool):
+	true - sharing the item
+	false - not sharing the item
+
+Leonardo (bool):
+	true - sharing the item
+	false - not sharing the item

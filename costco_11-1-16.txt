@@ -1,0 +1,12 @@
+11 01 2016 protein 5.59 o
+11 01 2016 snack 5.99 o
+11 01 2016 non-food 16.99 cyn
+11 01 2016 non-food 6.49 o
+11 01 2016 non-food 6.99 o
+11 01 2016 vegetable 4.49 o
+11 01 2016 pre-prepared 13.99 cyn
+11 01 2016 vegetable 7.99 o
+11 01 2016 fruit 1.99 o
+11 01 2016 protein 12.79 o
+11 01 2016 protein 19.99 co
+11 01 2016 vegetable 6.49 o

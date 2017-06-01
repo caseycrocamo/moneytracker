@@ -1,0 +1,12 @@
+02 13 2017 snack 12 ycl
+02 13 2017 snack 4 c
+02 13 2017 snack 12 yc
+02 13 2017 snack 2.5 c
+02 13 2017 snack 5.5 c
+02 13 2017 snack 4 yc
+02 13 2017 snack 12 c
+02 13 2017 snack 3 y
+02 13 2017 snack 4 ycn
+02 13 2017 snack 12 c
+02 13 2017 snack 10 yc
+02 13 2017 snack 0 y

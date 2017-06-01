@@ -1,0 +1,7 @@
+03 05 2017 pre-prepared 11.59 c
+03 05 2017 pre-prepared -3 c
+03 05 2017 dairy 12.99 cl
+03 05 2017 vegetable 4.29 cn
+03 05 2017 pre-prepared 7.99 cl
+03 05 2017 protein 13.99 c
+03 05 2017 dairy 5.19 ycnl

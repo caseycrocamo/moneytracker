@@ -1,0 +1,7 @@
+02 17 2017 snack 20 ycnl
+02 17 2017 bread 40 ycnl
+02 17 2017 pre-prepared 30 ycnl
+02 17 2017 drink 1 ycnl
+02 17 2017 pre-prepared 2 cnl
+02 17 2017 dairy 44 ycnl 
+02 17 2017 pre-prepared 10 y

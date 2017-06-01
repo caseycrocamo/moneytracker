@@ -1,0 +1,12 @@
+09 25 16 dairy 4.99 cynl
+09 25 16 cereal 8.99 c
+09 25 16 protein 4.99 cynl
+09 25 16 snack 9.99 cyn
+09 25 16 protein 13.69 cynl
+09 25 16 bread 1.99 cynl
+09 25 16 bread 2.19 cn
+09 25 16 dairy 7.69 cynl
+09 25 16 dairy 8.59 cynl
+09 25 16 protein 9.99 cl
+09 25 16 bread 5.79 cynl
+09 25 16 bread 5.99 c

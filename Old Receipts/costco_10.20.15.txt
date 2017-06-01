@@ -1,0 +1,17 @@
+drink 5.99 cn
+protein 23.07 cyn
+cereal 4.99 c
+dairy 4.79 cynl
+fruit 4.99 cny
+bread 6.79 cny
+preprepared 3.49 cyn
+vegetable 3.99 yn
+bread 3.19 cyn
+fruit 1.39 cynl
+condiment 7.99 ny
+protein 8.99 c
+protein 11.99 ny
+dairy 7.69 cynl
+protein 10.99 nyl
+snack 5.99 ny
+vegetable 4.99 cyn
